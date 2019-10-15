@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Java_JSP_JSTL_ListOfCustomers:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Java_JSP_JSTL_ListOfCustomers_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Java_JSP_JSTL_ListOfCustomers/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Java_JSP_JSTL_ListOfCustomers" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
